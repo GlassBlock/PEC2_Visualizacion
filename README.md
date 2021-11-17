@@ -8,5 +8,7 @@ de datos obtenidos de repositorios públicos en Internet; también se adjunta el
 Las fuentes consultadas para la realización de estos datos son las que se exponen a continuación:
 
 1. https://ark.intel.com/content/www/us/en/ark.html
+
 2. https://analisi.transparenciacatalunya.cat/es/Salut/Vacunaci-per-al-COVID-19-dosis-administrades-per-m/irki-p3c7
+
 3. https://datos.gob.es/es/catalogo/ea0010587-gasto-total-en-servicios-educativos-de-estudios-reglados-gasto-medio-por-estudiante-y-numero-de-estudiantes-segun-sexo-y-tamano-del-municipio-de-residencia-identificador-api-t13-p460-2019-l0-02003-px
